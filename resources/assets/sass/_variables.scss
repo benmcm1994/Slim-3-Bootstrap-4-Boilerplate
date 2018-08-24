@@ -1,0 +1,16 @@
+//
+// Override the Bootstrap 4 variables here...
+// --------------------------------------------------
+
+//== Buttons
+//
+//## For each of Bootstrap's buttons, define text, background and border color.
+
+
+$brand-primary:         red;
+$brand-success:         pink;
+$brand-info:            #5bc0de;
+$brand-warning:         #f0ad4e;
+$brand-danger:          #d9534f;
+
+$body-bg:               $brand-success;
