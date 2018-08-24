@@ -11,6 +11,7 @@ I personally ran this project on [Laravel Homestead](https://github.com/laravel/
 1. `npm install` for node dependencies
 2. `composer update` for php depencies
 3. Replace Browser sync url `slim3bootstrap.test` with your own local server address in `webpack.mix.js`
+4. Live reload is accessible by running `npm run watch` This will compile Sass on the fly and reload live in the browser.
 
 # File structure
 
